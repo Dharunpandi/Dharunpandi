@@ -69,11 +69,11 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="Dharunpandi" height="30" width="40" />
     </a>
     <a href="https://www.naukri.com/code360/profile/Dharunpandi_8" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codingninjas.svg" alt="Dharunpandi" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Dharunpandi" height="30" width="40" />
     </a>
 </p>  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dharunpandi754?theme=light&font=Hind%20Vadodara&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dharunpandi754?theme=dark&font=Farro&ext=heatmap)
 
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharunpandi&theme=blue-green" width="420" height="320"/>
