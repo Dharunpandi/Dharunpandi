@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" />
 
-# Hi there 👋 It's me Dharunpandi
+                                           # Hi there 👋 It's me Dharunpandi
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
 
@@ -78,4 +78,4 @@
 
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharunpandi&theme=blue-green" width="420" height="320"/>
-![Dharunpandi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharunpandi&bg_color=1a191a&color=eadb10&line=f2d307&point=fff70a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharunpandi&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
