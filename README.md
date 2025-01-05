@@ -78,5 +78,4 @@
 
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharunpandi&theme=blue-green" width="420" height="320"/>
-
-[![Dharunpandi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharunpandi&bg_color=1a191a&color=eadb10&line=f2d307&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dharunpandi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharunpandi&bg_color=1a191a&color=eadb10&line=f2d307&point=fff70a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
