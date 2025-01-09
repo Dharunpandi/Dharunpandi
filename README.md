@@ -10,7 +10,7 @@
 - 💬 Ask me about Machine Learning, Deep Learning, Web Development, and Data Analysis
 - 📫 How to reach me:
     <br />
-    <a href="dharunpandi754.com">
+    <a href="dharunpandi754@gmail.com">
         <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/dharun-pandi-88b061260/" target="_blank">
