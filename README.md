@@ -78,5 +78,7 @@
 
 </br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARUNPANDI&layout=compact&theme=radical&langs_count=10&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff" width="420" height="320"/>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharunpandi&bg_color=000000&color=fff700&line=dbe64c&point=e6d200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
