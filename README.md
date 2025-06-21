@@ -77,6 +77,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dharunpandi754?theme=dark&font=Farro&ext=heatmap)
 
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharunpandi&theme=blue-green" width="420" height="320"/>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharunpandi&bg_color=000000&color=fff700&line=dbe64c&point=e6d200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
